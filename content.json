@@ -1,5 +1,8 @@
 {
-    "algemeen": {},
+    "algemeen": {
+        "jaar_van_datacollectie": 2014,
+        "creatiedatum_van_klinische_file": "2014-05-19T22:00:00.000Z"
+    },
     "patientgegevens": {
         "geslacht": {
             "selectedChoice": "Man"
